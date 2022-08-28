@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: sans-serif;
+}
+
+a{
+    color: #fff;
+}
+
+body {
+    background-color: blue;
+}
+
+.container{
+    height: 100px;
+    width: 100px;
+    display: grid;
+    place-items: center;
+    padding: 20px;
+}
+.calculator{
+    height: auto;
+    width: auto;
+    padding: 20px;
+    box-shadow: 0 0 40px rgb(48, 34, 34);
+}
